@@ -94,7 +94,6 @@ input[type="search"] {
 	-webkit-appearance: textfield;
 	text-decoration: none;
 }
-// placeholder
 .ba-search-input::-webkit-input-placeholder {
 	color: #c2c2c2;
 }
